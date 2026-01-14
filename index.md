@@ -1,5 +1,7 @@
 <!-- GPL-3.0; see root LICENSE -->
 
+![Krista Logo](kristaLogo.png)
+
 # Complete Extension Development Guide
 
 This documentation set helps you design, build, and operate Krista extensions.

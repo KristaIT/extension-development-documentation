@@ -1,5 +1,7 @@
 <!-- GPL-3.0; see root LICENSE -->
 
+![Krista Logo](../kristaLogo.png)
+
 **Breadcrumbs:** [Home](../index.md) > [Performance](README.md) > Timeouts and retries
 
 # Timeouts and retries

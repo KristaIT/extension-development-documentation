@@ -1,5 +1,7 @@
 <!-- GPL-3.0; see root LICENSE -->
 
+![Krista Logo](../kristaLogo.png)
+
 **Breadcrumbs:** [Home](../index.md) > [Getting started](README.md) > Local development workflow
 
 # Local development workflow

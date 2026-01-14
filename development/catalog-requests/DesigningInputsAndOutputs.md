@@ -1,5 +1,7 @@
 <!-- GPL-3.0; see root LICENSE -->
 
+![Krista Logo](../../kristaLogo.png)
+
 **Breadcrumbs:** [Home](../../index.md) > [Development](../README.md) > [Catalog requests](README.md) > Designing inputs and outputs
 
 # Designing inputs and outputs

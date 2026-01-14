@@ -1,5 +1,7 @@
 <!-- GPL-3.0; see root LICENSE -->
 
+![Krista Logo](../kristaLogo.png)
+
 **Breadcrumbs:** [Home](../index.md) > [Development](README.md) > Testing strategy
 
 # Testing strategy
