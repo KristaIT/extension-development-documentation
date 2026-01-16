@@ -93,6 +93,14 @@ Use this page as a clickable table of contents (mirrors the docs sidebar).
 - [API requests (@ApiRequest)](reference/ApiRequests.md)
 - [Entity requests (@EntityRequest)](reference/EntityRequests.md)
 
+### Custom agents
+
+- [Custom agents](custom-agents/README.md)
+  - [Hosting URL endpoint](custom-agents/HostingUrlEndpoint.md)
+  - [Domain registration](custom-agents/DomainRegistration.md)
+  - [Packaging and deployment](custom-agents/PackagingAndDeployment.md)
+  - [Best practices](custom-agents/BestPractices.md)
+
 ### Examples
 
 - [Examples](examples/README.md)
